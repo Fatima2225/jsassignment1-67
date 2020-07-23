@@ -1,0 +1,47 @@
+
+/* body
+        {
+            font-family: Arial;
+            font-size: 16px;
+        }
+        .font-button
+        {
+            background-color: #0090CB;
+            height: 50px;
+            width: 50px;
+            display: inline-block;
+            color: #fff;
+            text-align: center;
+            line-height: 50px;
+            font-size: 25pt;
+            cursor: pointer;
+        }
+
+img{
+height : 200px;
+width: 120px;
+
+}
+
+button {
+  padding: 20px;
+  background: transparent;
+  text-shadow: 1px 1px 1px #202020;
+  font-family: "Lato", sans-serif;
+  font-size: 18pt;
+  border: 1px solid blue;
+  color: blue;
+}
+#button {
+  padding: 20px;
+  background: transparent;
+  text-shadow: 1px 1px 1px #202020;
+  font-family: "Lato", sans-serif;
+  font-size: 18pt;
+  border: 1px solid blue;
+  color: blue;
+}
+#btnn{
+width:100px;
+margin-top: 20px;
+} */
